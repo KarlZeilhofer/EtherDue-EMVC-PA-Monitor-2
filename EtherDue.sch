@@ -263,13 +263,13 @@ AD4
 Text GLabel 10650 9000 0    60   Output ~ 0
 AD5
 Text GLabel 9600 3600 0    60   Input ~ 0
-PWM2
+PIN48
 Text GLabel 9600 5150 0    60   Input ~ 0
-PWM3
+PIN49
 Text GLabel 9600 3700 0    60   Input ~ 0
-PIN22
+PIN46
 Text GLabel 9600 5250 0    60   Input ~ 0
-PIN23
+PIN47
 Text GLabel 3450 11000 2    60   Output ~ 0
 PIN24
 Text Notes 9350 4800 0    60   ~ 0

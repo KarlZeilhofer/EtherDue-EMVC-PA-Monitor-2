@@ -1,4 +1,4 @@
-update=Mon 09 Mär 2015 09:55:27 CET
+update=Tue 14 Apr 2015 04:55:17 PM CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -53,26 +53,6 @@ LibName40=/home/karl/K/KiCad/libs-kcs-walter/lib_w_transistor/w_transistor
 LibName41=/home/karl/K/KiCad/libs-kcs-walter/lib_w_logic/w_logic
 [general]
 version=1
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=EtherDue.net
-UseCmpFile=0
-PadDrill=0.8128
-PadDrillOvalY=0.8128
-PadSizeH=1.524
-PadSizeV=1.524
-PcbTextSizeV=0.6
-PcbTextSizeH=0.6
-PcbTextThickness=0.15
-ModuleTextSizeV=0.6
-ModuleTextSizeH=0.6
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0.127
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.4
-BoardOutlineThickness=0.7999999999999999
-ModuleOutlineThickness=0.09999999999999999
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -86,3 +66,23 @@ RptD_X=0
 RptD_Y=100
 RptLab=1
 LabSize=60
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=EtherDue.net
+UseCmpFile=0
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=0.7975599999999999
+PadSizeV=0.7975599999999999
+PcbTextSizeV=0.6
+PcbTextSizeH=0.6
+PcbTextThickness=0.15
+ModuleTextSizeV=0.2
+ModuleTextSizeH=0.2
+ModuleTextSizeThickness=0.02
+SolderMaskClearance=0.127
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.4
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.09999999999999999
