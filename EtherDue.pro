@@ -1,4 +1,4 @@
-update=Thu 16 Apr 2015 10:01:05 AM CEST
+update=Wed 13 May 2015 03:46:11 PM CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -21,26 +21,6 @@ RptD_X=0
 RptD_Y=100
 RptLab=1
 LabSize=60
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=EtherDue.net
-UseCmpFile=0
-PadDrill=0
-PadDrillOvalY=0
-PadSizeH=0.7975599999999999
-PadSizeV=0.7975599999999999
-PcbTextSizeV=0.6
-PcbTextSizeH=0.6
-PcbTextThickness=0.15
-ModuleTextSizeV=0.2
-ModuleTextSizeH=0.2
-ModuleTextSizeThickness=0.02
-SolderMaskClearance=0.127
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.4
-BoardOutlineThickness=0.15
-ModuleOutlineThickness=0.09999999999999999
 [eeschema]
 version=1
 LibDir=libs/symbols/freetronics;libs/symbols/lib_w_logic;libs/symbols/lib_w_transistor;libs/symbols/zeilhofer.co.at
@@ -86,3 +66,23 @@ LibName38=valves
 LibName39=libs/symbols/zeilhofer.co.at/zeilhofer
 LibName40=libs/symbols/lib_w_transistor/w_transistor
 LibName41=libs/symbols/lib_w_logic/w_logic
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=EtherDue.net
+UseCmpFile=0
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=0.7975599999999999
+PadSizeV=0.7975599999999999
+PcbTextSizeV=0.6
+PcbTextSizeH=0.6
+PcbTextThickness=0.15
+ModuleTextSizeV=0.2
+ModuleTextSizeH=0.2
+ModuleTextSizeThickness=0.02
+SolderMaskClearance=0.127
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.4
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.09999999999999999
